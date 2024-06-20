@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/raffimakbar?label=Stars&style=social)
 
 ## 🚀 About Me
-I'm a beginner software and web developer with a passion for building web applications and learning new technologies. I am proficient in various programming languages and tools.
+I'm a very-very beginner software and web developer with a passion for building web applications and learning new technologies. I am proficient in various programming languages and tools.
 
 ## 🛠 Technologies & Tools
 
