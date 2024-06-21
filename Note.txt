@@ -1,0 +1,11 @@
+MY CODING NOTES:
+
+PROJECT FRAMEWORK: - Next JS -> The most framework library i used to
+                   - Express
+                   - Flask -> Eventually i made something just for fun dan yap i use this library for my python codes
+
+FIREBASE PROJECT NAME: - Agatha -> Experimental and private usage
+                       - Nekata -> True development and public usage
+DATABASE: - POSTGRESQL: - Neon DB -> This the most database i used  - Koyeb
+                        - Supabase 
+          - NOSQL: - Firebase 
