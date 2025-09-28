@@ -21,3 +21,5 @@ I'm a very-very beginner software and web developer with a passion for building 
 ## 🔗 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/mocateaja)
+
+And also this is my desktop setup, using Linux as a system for my computer: https://drive.google.com/file/d/1qvyuvo5ariSwmW9tT_25uAvXkMVK23sP/view?usp=drivesdk
