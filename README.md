@@ -4,10 +4,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/raffimakbar?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/raffimakbar?label=Stars&style=social)
 
-## 🚀 About Me
-I'm a very-very beginner software and web developer with a passion for building web applications and learning new technologies. I am proficient in various programming languages and tools.
+## About Me
+I'm a very-very beginner software and web developer with a passion for building web applications and learning new technologies. I am proficient in various programming languages and tools. And this year I plan to take an industrial instrumentation education. Chiyo
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -18,7 +18,7 @@ I'm a very-very beginner software and web developer with a passion for building 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
-## 🔗 Connect with Me
+## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/mocateaja)
 
